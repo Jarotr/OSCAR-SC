@@ -13,7 +13,7 @@ let handler = async (m, { conn }) => {
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
 ╠═ ©2021 
-╠═ Scrip original by Tio
+╠═ Scrip original by Jarot
 ╠═〘 ${namabot} 〙 ═`.trim(), footer, 'Dana', '#viadana', 'OVO', '#viaovo', 'Pulsa', '#viapulsa', m)
 }
 
