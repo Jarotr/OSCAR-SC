@@ -2,7 +2,7 @@ let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Pulsa
 ╠➥ Ke nomer ini
-║➥ 081395861695
+║➥ 085850539404
 ║
 ╠═〘 Fitur 〙 ═
 ║
@@ -23,7 +23,7 @@ let handler = async (m, { conn }) => {
 ║   *FITUR LAINNYA*
 ║ 
 ╠═ ©2021 
-╠═ Scrip original by Tio
+╠═ Scrip original by JAROT
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
 
